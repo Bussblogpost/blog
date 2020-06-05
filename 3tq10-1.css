@@ -1,0 +1,4 @@
+.main-header-menu li { border-bottom: 2px solid transparent; }
+.main-header-menu li:hover { background-color: #f9f9f9; border-bottom: 2px solid #FEBF02; }
+.main-header-menu li:last-child:hover { background-color: #ffffff; border-bottom: 2px solid transparent; }
+.main-header-menu li.current-menu-item { border-bottom: 2px solid #FEBF02;  }
